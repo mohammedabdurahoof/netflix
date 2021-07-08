@@ -11,7 +11,7 @@
     overflow-y: hidden;
 }
 
-:posters:-webkit-scrollbar{
+.posters::-webkit-scrollbar{
     display: none;
 }
 
